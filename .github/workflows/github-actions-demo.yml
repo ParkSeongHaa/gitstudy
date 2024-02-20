@@ -15,4 +15,3 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-출처: https://mentha2.tistory.com/267 [행궁동 데이터 엔지니어:티스토리]
